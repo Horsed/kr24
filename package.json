@@ -1,0 +1,28 @@
+{
+  "name": "kr24",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Horsed/kr24"
+  },
+  "author": "Martin Knopf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Horsed/kr24/issues"
+  },
+  "homepage": "https://github.com/Horsed/kr24",
+  "dependencies": {
+    "cron": "1",
+    "express": "4",
+    "express-handlebars": "2",
+    "lodash": "^3.10.0",
+    "mocha": "2",
+    "promise": "^7.0.3"
+  }
+}

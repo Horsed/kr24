@@ -15,3 +15,4 @@ Website using express 4 with handlebars and a tiny datastore. Also contains a jo
 * frontend dependency mgmt
 * frontend components
 * tests
+* clustering
